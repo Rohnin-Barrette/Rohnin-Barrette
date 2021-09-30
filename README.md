@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Rohnin Barrette, a computer science student at Mother Teresa
+## ✍ Programming Languages
 
+<p>
+  <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
 
 **Rohnin-Barrette/Rohnin-Barrette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
