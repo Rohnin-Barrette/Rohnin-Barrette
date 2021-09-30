@@ -9,6 +9,9 @@
 
   ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white)
 
+## 🔧 Tools
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=green)  
+  
 - 🌱 I’m currently learning C++ and Python
 - 📫 How to reach me: Email: rohnin.barrette@ocsbstudent.ca
 - 😄 Pronouns: He/Him
