@@ -6,7 +6,8 @@
   <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 
 ## 💻 Operatiing Systems
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white)
+
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white)
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
